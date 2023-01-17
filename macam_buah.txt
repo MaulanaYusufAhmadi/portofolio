@@ -1,6 +1,7 @@
 Macam-macam Buah :
 - nanas
-- pisang
 - apel
 - jeruk 
 - leci
+- durian
+
