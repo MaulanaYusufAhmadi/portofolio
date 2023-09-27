@@ -1,7 +1,0 @@
-Macam-macam Buah :
-- nanas
-- apel
-- jeruk 
-- leci
-- durian
-
